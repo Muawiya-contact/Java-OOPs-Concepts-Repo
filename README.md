@@ -1,6 +1,8 @@
+<<<<<<< HEAD
 # 🚀 Java OOPs Concepts Repository
 
 A **comprehensive guide** to **Object-Oriented Programming (OOP)** in Java. This repository covers the **four pillars of OOP** with real-world examples, explanations, and UML diagrams.
+
 
 ## 📌 Features
 ✅ Covers **Encapsulation, Inheritance, Polymorphism, and Abstraction**  
@@ -32,3 +34,7 @@ Java-OOPs-Concepts-Repo/
 │   ├── uml_structure.pdf
 │── LICENSE
 │── CONTRIBUTING.md
+=======
+# Java-OOPs-Concepts-Repo
+A structured repository covering Object-Oriented Programming (OOP) concepts in Java with examples and UML diagrams.
+>>>>>>> 1d0501efdc120b45260a985b98bb8db34343504a
