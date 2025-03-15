@@ -10,6 +10,10 @@ A **comprehensive guide** to **Object-Oriented Programming (OOP)** in Java. This
 ✅ **UML Diagrams** for easy understanding  
 ✅ **Beginner-friendly & well-structured**  
 ✅ Open-source and easy to contribute  
+![GitHub stars](https://img.shields.io/github/stars/Muawiya-contact/Java-OOPs-Concepts-Repo?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Muawiya-contact/Java-OOPs-Concepts-Repo?style=social)
+![GitHub issues](https://img.shields.io/github/issues/Muawiya-contact/Java-OOPs-Concepts-Repo)
+
 
 ---
 
